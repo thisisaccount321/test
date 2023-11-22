@@ -1,3 +1,4 @@
 Value: init
 Add: dev
 Action: add tag for dev
+Action3: add tag and push tag dev
